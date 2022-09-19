@@ -1,7 +1,7 @@
-https://user-images.githubusercontent.com/91186046/191083827-63c100f5-2b21-48a1-952e-478dd093bd70.mp4
-<h1 align="center">Greetings❤️!, I'm Nsanzimfura Eric</h1>
+<img width="100%" height="400" src="https://user-images.githubusercontent.com/91186046/191090372-8c575c38-40ef-43f5-9aae-316bdad7d668.gif"/>
+<h1  align="center">Greetings❤️!, I'm Nsanzimfura Eric</h1>
 <h3 align="center">A desciplined && passionate Full-stack developer from Rwanda 🇷🇼</h3>
-  <img src="https://user-images.githubusercontent.com/91186046/191077746-78bb4dc6-46ec-4690-9726-1271b9a43a6c.png" control="false" width="100%" />
+  <img src="https://user-images.githubusercontent.com/91186046/191083621-b505f8c2-6cce-4a1b-8f19-edabca6d3919.png" height="300" width="100%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kress2000&label=Profile%20views&color=0e75b6&style=flat" alt="kress2000" /> </p>
 
@@ -12,17 +12,18 @@ https://user-images.githubusercontent.com/91186046/191083827-63c100f5-2b21-48a1-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kress2000&show_icons=true&locale=en" alt="kress2000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kress2000&" alt="kress2000" /></p>
 
-- 📫 How to reach me **erickykress1@gmail.com**
 
-- ⚡ Fun fact **I always sing when am done coding**
+
+- ⚡ Fun fact: **I always sing when am done coding 😜**
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucrwuifcuk7aywr8hkyqenuq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucrwuifcuk7aywr8hkyqenuq" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p>erickykress1@gmail.com</p>
+<h1 align="left">Let's talk: </h1>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=erickykress1@gmail.com" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/91186046/191096020-05082164-c8d3-4b65-b2ac-66503cbf3fd5.png" alt="erickykress1@gmail.com" height="30" width="40" />
+  </a>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nsanzimfura-eric-230708223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nsanzimfura-eric-230708223/" height="30" width="40" /></a>
 </p>
