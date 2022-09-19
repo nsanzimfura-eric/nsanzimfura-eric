@@ -23,7 +23,7 @@
 <h1 align="left">Let's talk: </h1>
  
 <p align="center" width="100%">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nsanzimfura-eric-230708223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nsanzimfura-eric-230708223/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nsanzimfura-eric-230708223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nsanzimfura-eric-230708223/" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=erickykress1@gmail.com" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/91186046/191096020-05082164-c8d3-4b65-b2ac-66503cbf3fd5.png" alt="erickykress1@gmail.com" height="30" width="40" />
   </a>
