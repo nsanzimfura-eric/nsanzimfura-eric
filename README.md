@@ -1,4 +1,4 @@
-<img width="100%" height="400" src="https://user-images.githubusercontent.com/91186046/191090372-8c575c38-40ef-43f5-9aae-316bdad7d668.gif"/>
+<img width="100%" height="350" src="https://user-images.githubusercontent.com/91186046/191090372-8c575c38-40ef-43f5-9aae-316bdad7d668.gif"/>
 <h1  align="center">Greetings❤️!, I'm Nsanzimfura Eric</h1>
 <h3 align="center">A desciplined && passionate Full-stack developer from Rwanda 🇷🇼</h3>
   <img src="https://user-images.githubusercontent.com/91186046/191083621-b505f8c2-6cce-4a1b-8f19-edabca6d3919.png" height="300" width="100%" />
@@ -15,15 +15,22 @@
 
 
 
-- ⚡ Fun fact: **I always sing when am done coding 😜**
+- ⚡ Fun fact: **When I'm done coding, I become a singer and songwriter 😜**
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucrwuifcuk7aywr8hkyqenuq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucrwuifcuk7aywr8hkyqenuq" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">Let's talk: </h1>
- <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=erickykress1@gmail.com" target="_blank">
+ 
+<p align="center" width="100%">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nsanzimfura-eric-230708223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nsanzimfura-eric-230708223/" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=erickykress1@gmail.com" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/91186046/191096020-05082164-c8d3-4b65-b2ac-66503cbf3fd5.png" alt="erickykress1@gmail.com" height="30" width="40" />
   </a>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nsanzimfura-eric-230708223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nsanzimfura-eric-230708223/" height="30" width="40" /></a>
+  <a href="https://api.whatsapp.com/send?phone=250780088171&text=Send20%a20%quote" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/91186046/191099462-f556b47f-34d2-43ac-a585-1a5b687671f1.png" alt="+250780088171" height="30" width="40" />
+  <a href="https://www.instagram.com/ericky_kress/" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/91186046/191099433-c9a6a59e-ca75-45e8-9265-a8ee88236474.png" alt="Ericky_kress" height="30" width="40" />
+  
+  </a>
 </p>
