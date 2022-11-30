@@ -1,6 +1,6 @@
 <img width="100%" height="350" src="https://user-images.githubusercontent.com/91186046/191090372-8c575c38-40ef-43f5-9aae-316bdad7d668.gif"/>
 <h1  align="center">Greetings❤️!, I'm Nsanzimfura Eric</h1>
-<h3 align="center">A desciplined && passionate Full-stack developer from Rwanda 🇷🇼</h3>
+<h3 align="center">A desciplined && passionate Front-End developer from Rwanda 🇷🇼</h3>
   <img src="https://user-images.githubusercontent.com/91186046/191083621-b505f8c2-6cce-4a1b-8f19-edabca6d3919.png" height="300" width="100%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kress2000&label=Profile%20views&color=0e75b6&style=flat" alt="kress2000" /> </p>
