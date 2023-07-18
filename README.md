@@ -1,7 +1,6 @@
 <img width="100%" height="350" src="https://user-images.githubusercontent.com/91186046/191090372-8c575c38-40ef-43f5-9aae-316bdad7d668.gif"/>
 <h1  align="center">Greetings❤️!, I'm Nsanzimfura Eric</h1>
-<h3 align="center">A desciplined && passionate Front-End developer from Rwanda 🇷🇼</h3>
-  <img src="https://user-images.githubusercontent.com/91186046/191083621-b505f8c2-6cce-4a1b-8f19-edabca6d3919.png" height="300" width="100%" />
+<h3 align="center">A desciplined && passionate Full-stack developer from Rwanda 🇷🇼</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kress2000&label=Profile%20views&color=0e75b6&style=flat" alt="kress2000" /> </p>
 
@@ -11,19 +10,19 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kress2000&show_icons=true&locale=en&layout=compact" alt="kress2000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kress2000&show_icons=true&locale=en" alt="kress2000" /></p>
-
-
-
-
+<!--
 - ⚡ Fun fact: **When I'm done coding, I become a singer and songwriter 😜**
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucrwuifcuk7aywr8hkyqenuq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucrwuifcuk7aywr8hkyqenuq" height="30" width="40" /></a>
 </p>
-
+ -->
 <h1 align="left">Let's talk: </h1>
  
 <p align="center" width="100%">
 <a href="https://www.linkedin.com/in/nsanzimfura-eric-230708223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nsanzimfura-eric-230708223/" height="30" width="40" /></a>
+  <a href="https://twitter.com/e_nsanzimfura" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Nsanzimfura" height="30" width="40" />
+  </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=erickykress1@gmail.com" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/91186046/191096020-05082164-c8d3-4b65-b2ac-66503cbf3fd5.png" alt="erickykress1@gmail.com" height="30" width="40" />
   </a>
