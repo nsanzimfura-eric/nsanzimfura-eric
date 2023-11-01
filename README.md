@@ -28,8 +28,8 @@
   </a>
   <a href="https://api.whatsapp.com/send?phone=250780088171&text=Send20%a20%quote" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/91186046/191099462-f556b47f-34d2-43ac-a585-1a5b687671f1.png" alt="+250780088171" height="30" width="40" />
-  <a href="https://www.instagram.com/ericky_kress/" target="blank">
+<!--   <a href="https://www.instagram.com/ericky_kress/" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/91186046/191099433-c9a6a59e-ca75-45e8-9265-a8ee88236474.png" alt="Ericky_kress" height="30" width="40" />
   
-  </a>
+  </a> -->
 </p>
