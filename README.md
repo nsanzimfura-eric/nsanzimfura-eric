@@ -1,4 +1,4 @@
-<img width="100%" height="350" src="https://user-images.githubusercontent.com/91186046/191090372-8c575c38-40ef-43f5-9aae-316bdad7d668.gif"/>
+<img width="100%" height="200" src="https://github.com/nsanzimfura-eric/nsanzimfura-eric/assets/91186046/fab505c1-3cb5-415d-8009-8fb8971e55ba"/>
 <h1  align="center">Greetings❤️!, I'm Nsanzimfura Eric</h1>
 <h3 align="center">Full-stack developer from Rwanda 🇷🇼</h3>
 
@@ -14,7 +14,7 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucrwuifcuk7aywr8hkyqenuq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucrwuifcuk7aywr8hkyqenuq" height="30" width="40" /></a>
 </p>
  -->
-<h1 align="left">Let's talk: </h1>
+<h1 align="left">Let's Work together: </h1>
  
 <p align="center" width="100%">
 <a href="https://www.linkedin.com/in/nsanzimfura-eric-230708223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nsanzimfura-eric-230708223/" height="30" width="40" /></a>
