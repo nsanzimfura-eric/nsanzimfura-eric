@@ -1,6 +1,6 @@
 <img width="100%" height="200" src="https://github.com/nsanzimfura-eric/nsanzimfura-eric/assets/91186046/fab505c1-3cb5-415d-8009-8fb8971e55ba"/>
 <h1  align="center">Greetings❤️!, I'm Nsanzimfura Eric</h1>
-<h3 align="center">Full-stack developer from Rwanda 🇷🇼</h3>
+<h3 align="center">Full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsanzimfura-eric&label=Profile%20views&color=0e75b6&style=flat" alt="nsanzimfura-eric" /> </p>
 
